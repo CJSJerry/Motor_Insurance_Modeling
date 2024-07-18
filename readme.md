@@ -10,7 +10,7 @@ This is a demo of using both the industry standard (generalized linear model) an
 
 ## Usage
 ### Running the Jupyter Notebook
-To view and run the Notebook, open motor_insurance.ipynb in a Jupyter environment (e.g., Jupyter Notebook, Google Colab) or directly on Github.
+To view and run the Notebook, open motor_insurance.ipynb in a Jupyter environment (e.g., Jupyter Notebook, Google Colab), or preview the outcome directly on Github.
 
 ### Running the Python Script
 To execute the analysis using the Python script, run the following command in your terminal:
