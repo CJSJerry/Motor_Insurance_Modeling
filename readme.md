@@ -1,6 +1,6 @@
 # Demo: Motor Insurance Modeling with GLM and Neural Network
 
-This is a demo of using both the industry standard (generalized linear model) and artifical neural network to predict the claim amount of a motor insurance claim record. Pre-processing and visualization for all variables are also included. Note that Annual claim amount is often referred to as _severity_ in the actuarial literature, but since this demo does not delve into the annualiztion of the claim amount, the term _severity_ simply refers to the claim amount for the purpose of this demo.
+This is a demo of using both the industry standard (generalized linear model) and artifical neural network to predict the claim amount of a motor insurance claim record. Pre-processing and visualization for all variables are also included. Note that Annual claim amount is often referred to as _severity_ in the actuarial literature, but since we do not delve into the annualiztion of the claim amount here, the term _severity_ simply refers to the claim amount for the purpose of this demo.
 
 ## Contents
 
